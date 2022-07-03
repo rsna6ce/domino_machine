@@ -44,6 +44,7 @@
 * M3x8 screw x1
 * 3D printed model
   * Download my design from Thingiverse
+  * https://www.thingiverse.com/thing:5424303
 
 ## Arduino wiring
 | Arduino Pin | Device | Pin | Remarks |
