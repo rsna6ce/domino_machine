@@ -1,6 +1,6 @@
 # domino_machine
 
-![right](image/right.png)
+![domino_machine](image/domino_machine.png)
 
 ## Overview
 * This machine is a prototype machine that automatically places dominoes.
