@@ -1,5 +1,7 @@
 # domino_machine
 
+![right](image/right.png)
+
 ## Overview
 * This machine is a prototype machine that automatically places dominoes.
 * Made for practicing servo control by Arduino
@@ -10,7 +12,7 @@
   * Must be adjusted to stand vertically by scraping domino burrs
 * Remote controller operation
   * Center key: Start stop
-  * Up / Down key: Narrow / wide domino spacing
+  * Up / Down key: Domino spacing Narrow / wide
   * Left / Right key: Turn left / right
 
 ## Dependent libraries
