@@ -18,10 +18,10 @@
 ## Dependent libraries
 * IRremote
   * Ver 3.7.1
-  * Installed using ArduinoIDE Library Manager
-* VarSpeed ​​Servo
+  * Install using ArduinoIDE Library Manager
+* VarSpeed Servo
   * https://github.com/netlabtoolkit/VarSpeedServo
-  * Download zip and zip library installation using ArduinoIDE Library Manager
+  * Download zip and zip library install using ArduinoIDE Library Manager
 
 ## Hardware used
 * Arduino UNO (compatible)
