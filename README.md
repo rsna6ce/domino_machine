@@ -56,10 +56,10 @@
 | 3 | VS1838B | OUT ||
 | 5V | SG90 | Vcc | for arm |
 | GND | SG90 | Ground | for arm |
-| 9 | SG90 | PWM | for arm |
+| 5 | SG90 | PWM | for arm |
 | 5V | SG90-HV | Vcc | for right wheel |
 | GND | SG90-HV | Ground | for right wheel |
 | 10 | SG90-HV | PWM | for right wheel |
 | 5V | SG90-HV | Vcc | for left wheel |
 | GND | SG90-HV | Ground | for left wheel |
-| 11 | SG90-HV | PWM | for left wheel |
+| 9 | SG90-HV | PWM | for left wheel |
